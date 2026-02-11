@@ -18,6 +18,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX/UI Designer: conducts user research, designs interfaces, advocates for user-centric improvements.
+- DevOps Engineer: manages infrastructure, CI/CD pipelines, and ensures reliable deployments.
+- Support Lead: represents customer-facing support, provides user feedback, manages escalations.
+- Legal & Compliance Advisor: reviews for regulatory compliance, advises on risk and documentation.
+- QA Automation Lead: oversees test automation frameworks, coaches on test coverage.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
